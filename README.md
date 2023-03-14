@@ -72,7 +72,7 @@ fachryotosaka@github
         <a href="#"><img alt="" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
         <a href="#"><img alt="" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
         <a href="#"><img alt="" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-        <a href="#"><img alt="" src=""></a>
+        <a href="#"><img alt="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
         <a href="#"><img alt="" src=""></a>
         
         
@@ -110,7 +110,7 @@ fachryotosaka@github
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="[https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
