@@ -18,7 +18,7 @@ Fachry Zulfikar
 <br>
 
 <p>
-Hello, im Fachry Zulfikar , Born in Indonesia-Jakarta October 27, 2005, I learned about programming from the age of 15 years, Desire to become a Full Stack developer, software engineer and mobile app developer, likes JS, Go, Python, Ruby, C++, C, C#, PHP programming languages, very interested in machine learning , AI, and CyberSecurity.
+Hello, im Fachry Zulfikar , Born in Indonesia-Jakarta October 27, 2005, I learned about programming from the age of 15 years, Desire to become a Full Stack developer, software engineer and mobile app developer, likes JS, Go, Python, Ruby, PHP programming languages, very interested in machine learning , AI, and CyberSecurity.
 </p>
 
 
@@ -37,7 +37,7 @@ fachryotosaka@github
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning Go into expert, Flutter, Nest JS, Ethical Hacking and Python
 - 💬 Ask me about coding, games, anime or universe theory
-- 🌟 Main languages: Go, Dart, PHP, Python, JavaScript, C, C++, C#, Ruby
+- 🌟 Main languages: Go, Dart, PHP, Python, JavaScript
 - 🚩 Interested in Full Stack Machine Learning Application development CyberSecurity Artificial Intelligence
 - 💖 have a complicated life
 - 🎵 Love J-pop soft music 
@@ -62,7 +62,7 @@ fachryotosaka@github
 <p>
         <a href="#"><img alt="" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
         <a href="#"><img alt="" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
-        <a href="#"><img alt="" src=""https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white></a>
+<!--         <a href="#"><img alt="" src=""https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white></a> -->
 <!--         <a href="#"><img alt="" src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white"></a> -->
         <a href="#"><img alt="" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></a>
         <a href="#"><img alt="" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
@@ -84,7 +84,7 @@ fachryotosaka@github
     <a href="#"><img alt="" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></a>
-    <a href="#"><img alt="" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
+<!--     <a href="#"><img alt="" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a> -->
     <a href="#"><img alt="" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
