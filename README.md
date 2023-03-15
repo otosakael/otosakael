@@ -18,7 +18,7 @@ Fachry Zulfikar
 <br>
 
 <p>
-Hello, im Fachry Zulfikar , Born in Indonesia-Jakarta October 27, 2005, I learned about programming from the age of 15 years, Desire to become a Full Stack developer, software engineer and mobile app developer, likes JS, Go, Python, Ruby, PHP programming languages, very interested in machine learning , AI, and CyberSecurity.
+Hello, im Fachry Zulfikar , Born in Indonesia-Jakarta October 27, 2005, I learned about programming from the age of 15 years, Desire to become a Full Stack developer, software engineer and mobile app developer, likes JS, Go, Dart, Python, Ruby, PHP programming languages, very interested in machine learning , AI, and CyberSecurity.
 </p>
 
 
