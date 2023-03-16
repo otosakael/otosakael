@@ -37,7 +37,7 @@ fachryotosaka@github
 - 🔭 I’m currently open to work
 - 🌱 I’m currently learning Go into expert, Flutter, Nest JS, Ethical Hacking and Python
 - 💬 Ask me about coding, games, anime or universe theory
-- 🌟 Main languages: Go, Dart, PHP, Python, JavaScript
+- 🌟 Main languages: Go, Dart, PHP, TypeScript, JavaScript
 - 🚩 Interested in Full Stack Machine Learning Application development CyberSecurity Artificial Intelligence
 - 💖 have a complicated life
 - 🎵 Love J-pop soft music 
@@ -64,8 +64,8 @@ fachryotosaka@github
         <a href="#"><img alt="" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
 <!--         <a href="#"><img alt="" src=""https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white></a> -->
 <!--         <a href="#"><img alt="" src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white"></a> -->
-        <a href="#"><img alt="" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></a>
-        <a href="#"><img alt="" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+<!--         <a href="#"><img alt="" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"></a> -->
+<!--         <a href="#"><img alt="" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a> -->
         <a href="#"><img alt="" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 <!--         <a href="#"><img alt="" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> -->
         <a href="#"><img alt="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
@@ -80,7 +80,7 @@ fachryotosaka@github
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <!--     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a> -->
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+<!--     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a> -->
     <a href="#"><img alt="" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></a>
