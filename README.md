@@ -18,7 +18,7 @@ Fachry Zulfikar
 <br>
 
 <p>
-Hello, im Fachry Zulfikar , Born in Indonesia-Jakarta October 27, 2005, I learned about programming from the age of 15 years, Desire to become a Full Stack developer, software engineer and mobile app developer, likes JS, Go, Dart, Python, Ruby, PHP programming languages, very interested in machine learning , AI, and CyberSecurity.
+Hello, im Fachry Zulfikar , Born in Indonesia-Jakarta October 27, 2005, I learned about programming from the age of 15 years, Desire to become a Full Stack developer likes JS, Go, Dart, Python, Ruby, PHP, TypeScript programming languages, very interested in machine learning , AI, and CyberSecurity.
 </p>
 
 
@@ -69,7 +69,7 @@ fachryotosaka@github
         <a href="#"><img alt="" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 <!--         <a href="#"><img alt="" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> -->
         <a href="#"><img alt="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-        <a href="#"><img alt="" src=""></a>
+        <a href="#"><img alt="" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
         
         
         
