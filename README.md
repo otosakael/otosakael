@@ -39,7 +39,6 @@ fachryotosaka@github
 - 💬 Ask me about coding, games, anime or universe theory
 - 🌟 Main languages: Go, Dart, PHP, TypeScript, JavaScript
 - 🚩 Interested in Full Stack Machine Learning Application development CyberSecurity Artificial Intelligence
-- 💖 have a complicated life
 - 🎵 Love J-pop soft music 
 
 ```
@@ -50,7 +49,7 @@ fachryotosaka@github
   LinkedIn: -  <br />
   Facebook: - <br />
   Email: fachry2710@gmail.com <br />
-  Instagram: https://www.instagram.com/7exaaa/ <br />
+  Instagram: https://www.instagram.com/fachry.otosaka/ <br />
   Telegram: https://t.me/fachryotosaka <br />
   
 😄 Pronouns: he/him
