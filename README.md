@@ -46,7 +46,7 @@ fachryotosaka@github
 <hr>
 
 📫 How to reach me: <br />
-  LinkedIn: -  <br />
+  LinkedIn: https://www.linkedin.com/in/fachry-zulfikar-57b8b9317/  <br />
   Facebook: - <br />
   Email: fachry2710@gmail.com <br />
   Instagram: https://www.instagram.com/fachry.otosaka/ <br />
