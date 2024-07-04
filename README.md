@@ -7,7 +7,7 @@ Fachry Zulfikar
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backend+Developer;Mobile+App+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -35,7 +35,7 @@ fachryotosaka@github
 -------------------------
 
 - 🔭 I’m currently open to work
-- 🌱 I’m currently learning Go into expert, Flutter, Nest JS, Ethical Hacking and Python
+- 🌱 I’m currently learning Next.js into expert, Flutter, Nest JS, Ethical Hacking and Python
 - 💬 Ask me about coding, games, anime or universe theory
 - 🌟 Main languages: Go, Dart, PHP, TypeScript, JavaScript
 - 🚩 Interested in Full Stack Machine Learning Application development CyberSecurity Artificial Intelligence
