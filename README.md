@@ -1,6 +1,6 @@
 ### Hi There 🦖
 Call me El, 19 y/o as a trader, programmer, crypto investor, airdrop enthusiast. <br>
-Very interested in blockchain, quantum computing, crypto currency machine learning , AI, and CyberSecurity.
+Very interested in blockchain, quantum computing, crypto currency, machine learning, AI and CyberSecurity.
 </p>
 
 <hr>
