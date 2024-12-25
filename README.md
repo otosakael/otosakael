@@ -21,6 +21,8 @@ very interested in blockchain, quantum computing, crypto currency machine learni
 🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 
 ```
+</p>
+
 <hr>
 
 ## My GitHub Stats and Top Languages
