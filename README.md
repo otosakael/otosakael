@@ -1,5 +1,5 @@
 ### Hi There 🦖
-Call me El, 19 y/o as a trader, programmer, crypto investor, airdrop enthusiast.
+Call me El, 19 y/o as a trader, programmer, crypto investor, airdrop enthusiast. <br>
 very interested in blockchain, quantum computing, crypto currency machine learning , AI, and CyberSecurity.
 </p>
 
@@ -23,7 +23,6 @@ very interested in blockchain, quantum computing, crypto currency machine learni
 ```
 </p>
 
-<hr>
 
 ## My GitHub Stats and Top Languages
 ![El's github stats](https://github-readme-stats.vercel.app/api?username=fachryotosaka&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
