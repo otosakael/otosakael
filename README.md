@@ -24,7 +24,7 @@ very interested in blockchain, quantum computing, crypto currency machine learni
 </p>
 
 
-## My GitHub Stats and Top Languages
+### My GitHub Stats and Top Languages
 ![El's github stats](https://github-readme-stats.vercel.app/api?username=fachryotosaka&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fachryotosaka&layout=donut&theme=tokyonight&show_icons=true)
 
