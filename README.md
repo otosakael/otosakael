@@ -5,7 +5,7 @@ El, Scalper 24/5. <br/>
 ```
     El:
 -   I use daily ```.javascript```,``` .py```, ```.php```
--   I’m currently in love w someone who nvr love me.
+-   huft.
 -   Talk to me about music, movie, crypto, web3, airdrop, blockchain, forex
 -   Fav Song: P.S I Love You
 -   Fun fact: cool asf
